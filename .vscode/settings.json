@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MariaDB",
+            "name": "meeting",
+            "database": "db_meeting_room",
+            "username": "meeting"
+        }
+    ]
+}
